@@ -47,3 +47,4 @@ string a, b;
 int main () {
     cin >> a >> b;
     cout << KMPfindIdx(a, b) << "\n";
+}
